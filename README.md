@@ -1,4 +1,4 @@
 # kanye-alert
 kanye
 
-inpired by [https://github.com/kokoscript/PeterAlert](peter alert)
+inpired by [peter alert](https://github.com/kokoscript/PeterAlert)
